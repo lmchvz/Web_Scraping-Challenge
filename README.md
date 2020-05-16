@@ -8,4 +8,6 @@ For this project, a flask server was created to scrape a series of URLs describe
 ### Tools Used: 
 
 ### Project Screenshots: 
-![Image description](link-to-image)
+![Image description](https://github.com/lmchvz/Web_Scraping-Challenge/blob/master/screen_shot_1.png)
+![Image description](https://github.com/lmchvz/Web_Scraping-Challenge/blob/master/screen_shot_2.png)
+
