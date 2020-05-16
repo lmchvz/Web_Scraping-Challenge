@@ -12,6 +12,7 @@ For this project, a flask server was created to scrape a series of URLs describe
 - Splinter
 - Python requests
 - Pandas
+- HTML
 
 ### Project Screenshots: 
 ![Image description](https://github.com/lmchvz/Web_Scraping-Challenge/blob/master/screen_shot_1.png)
